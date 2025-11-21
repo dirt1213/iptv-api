@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-19 18:25:47,https://live.chinacert.cftest5.cn/mg/?id=608807420$订阅源
+2025-11-21 18:24:47,https://live.chinacert.cftest5.cn/mg/?id=608807420$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://live.chinacert.cftest5.cn/mg/?id=608807420$订阅源
@@ -115,7 +115,5 @@ CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba020
 老故事,https://other.ottiptv.cc/cwjd.m3u8$订阅源
 
 🏛经典剧场,#genre#
-笑傲江湖,https://live.ottiptv.cc/huya/26355790$订阅源
-笑傲江湖,https://live.ottiptv.cc/huya/26355790$订阅源
 天龙八部,https://live.ottiptv.cc/huya/20985816$订阅源
-三国演义,https://live.ottiptv.cc/huya/11602081$订阅源
+天龙八部,https://live.ottiptv.cc/huya/20985816$订阅源
