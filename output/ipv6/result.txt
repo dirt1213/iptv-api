@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-15 22:38:57,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-09-17 22:38:34,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -28,10 +28,10 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 老故事,https://cdn.qd.je/163189/cwjd$订阅源
 
 🏛经典剧场,#genre#
-笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
-笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
 笑傲江湖,https://live.ottiptv.cc/huya/26355790$订阅源
 笑傲江湖,https://live.ottiptv.cc/huya/26355790$订阅源
+笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
+笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903$订阅源
 三国演义,https://live.metshop.top/huya/11602081$订阅源
 水浒传,https://live.ottiptv.cc/yy/1353873252$订阅源
